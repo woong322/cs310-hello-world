@@ -1,13 +1,13 @@
 /**
  *
- * @author Your Name
+ * @author Woong Kwon
  */
 
 public class HelloWorld {
 
     public static void main(String[] args) {
-        Class c1 = new Class1();
-        Class c2 = new Class2();
+        Class 1 = new Class1(); //Class name c1 to 1
+        Class 2 = new Class2(); //Class name c2 to 2
         System.out.println("Hello, World!");
     }
     private void f1() {

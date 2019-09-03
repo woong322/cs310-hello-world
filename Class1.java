@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Woong Kwon
  */
 
 public class Class1 {
